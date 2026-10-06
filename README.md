@@ -47,7 +47,6 @@ cash_register/
 ```
 
 ## Notes / easy extensions
-- Change `app.secret_key` in `app.py` before any real/shared use.
 - To back up your data, just copy `cash_register.db`.
 - Ideas to extend: date-range filtering, CSV export, GST-ready invoice
   numbers, multi-user shop staff logins, daily closing report printout.
